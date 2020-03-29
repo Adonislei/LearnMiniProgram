@@ -1,0 +1,10 @@
+/* pages/home/home.wxss */
+.title {
+  color: #f00;
+  font-size: 20px;
+}
+button {
+  position: absolute;
+  top: 0;
+  margin: 30px auto;
+}
